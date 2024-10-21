@@ -1,45 +1,184 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px", height="300px",align="left">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" alt="Header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam8105&label=Profile%20views&color=0e75b6&style=flat" alt="shivam8105" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam8105" alt="shivam8105" /></a> </p>
+<h1 align="center">👋 Hello, I'm Shivam Kumar</h1>
 
-<p align="left"> <a href="https://twitter.com/shivamk30347293" target="blank"><img src="https://img.shields.io/twitter/follow/shivamk30347293?logo=twitter&style=for-the-badge" alt="shivamk30347293" /></a> </p>
-
-- 🔭 I’m currently working on **Javascript Projects**
-
-- 🌱 I’m currently learning **ReactJs**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤝 I’m looking for help with **Backend Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Shivam8105?tab=repositories](https://github.com/Shivam8105?tab=repositories)
-
-- 📝 I regularly write articles on [https://x.com/ShivamK30347293](https://x.com/ShivamK30347293)
-
-- 💬 Ask me about **HTML,CSS,JS,JAVA,C++,PYTHON,C,MYSQL**
-
-- 📫 How to reach me **newshivam8105@gmail.com**
-
-- ⚡ Fun fact **Spread Happiness**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shivamk30347293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivamk30347293" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-531737286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-kumar-531737286/" height="30" width="40" /></a>
-<a href="https://instagram.com/shivam_kr(209)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam_kr(209)" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shivam_8105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivam_8105" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivam kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivam kumar" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;DSA+Enthusiast;Night+Owl;Coder;" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  I am a Frontend Developer From Jharkhand
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam8105&show_icons=true&locale=en&layout=compact" alt="shivam8105" /></p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://www.instagram.com/shivam_kr209/" target="_blank">
+            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fshivam_kr209%2F&subtitle=@shivam_kr209&size=square" alt="shivam_kr209" />
+        </a>        
+    </td>
+    <td align="center">
+        <a href="https://www.linkedin.com/in/shivam-kumar-531737286/" target="_blank">
+            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivam-kumar-531737286%2F&subtitle=@Shivam+Kumar&size=square" alt="Shivam Kumar" />
+        </a>        
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://x.com/ShivamK30347293" target="_blank">
+            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FShivamK30347293&subtitle=@ShivamK30347293&size=square" alt="ShivamK30347293" />
+        </a>        
+    </td>
+    <td align="center">
+        <a href="https://github.com/Shivam8105" target="_blank">
+            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FShivam8105&subtitle=%2FShivam8105&size=square" alt="Shivam8105" />
+        </a>        
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam8105&show_icons=true&locale=en" alt="shivam8105" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam8105&" alt="shivam8105" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivam8105&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35" />
+</p>
+
+<h2 align="center">🚀 About Me</h2>
+
+Hello! I’m passionate about web development and programming, with a strong foundation in HTML, CSS, and JavaScript. I enjoy creating visually appealing and interactive web applications, and I take pride in my ability to bring ideas to life through code. If you’re here to "borrow" my README, I hope you brought some creativity with you—plagiarism isn’t a good look!
+
+In addition to my front-end skills, I’ve dabbled in several programming languages, including C, C++, Java, and Python. While I know my way around the concepts and syntax, I’m still in the learning stage. If you think you can just lift my skills and make them your own, good luck—you’ll need more than a copy-paste to get to my level!
+
+I also have experience with MySQL, enabling me to manage and query databases effectively. This knowledge complements my programming skills, allowing me to build more complex applications.
+
+As I continue my learning journey, I’m eager to take on new challenges and collaborate with others. If you’re here to be inspired rather than just replicate, let’s connect! I believe with persistence and practice, we can both enhance our skills and contribute to innovative projects. Just remember: there’s no shortcut to success—so don’t just copy; create!
+
+
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=Shivam8105&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam8105&custom_title=Shivam's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam8105&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam8105&theme=highcontrast&hide_border=true" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam8105&theme=highcontrast&hide_border=true" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shivam8105&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Mihir's GitHub stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam8105&theme=highcontrast&hide_border=true" alt="Profile Details" />
+
+<br>
+
+### Shivam8105/README.md activity
+![Alt](https://repobeats.axiom.co/api/embed/959496f9f8bb7f17c62ed94061e133a063ecca5b.svg "Repobeats analytics image")
+
+<br>
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivam8105&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy" />
+</details>
+
+</div>
+
+<div align="center">
+<h3 align="center">Leetcode Stats</h3>
+<p align="center">
+    <a href="https://leetcode.com/u/Shivam8105/" target="_blank">
+        <img align="center" src="https://leetcard.jacoblin.cool/Shivam8105?theme=light&radius=20" alt="Leetcode Stats" />
+    </a>
+    
+</p>
+
+<table>
+  <tr>
+    <th align="center">
+      Dev Profile
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://app.daily.dev/venom10"><img src="https://api.daily.dev/devcards/v2/cqeSas7wyrNpbLjlgcF6o.png?r=3sb" width="356" alt="Mihir's Dev Card" /></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">Web Development</h3>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th colspan="8" align="center">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML" />
+        </a>
+        <br>HTML
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS" />
+        </a>
+        <br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- Rest of the tables follow the same pattern... -->
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <a href="mailto:newshivam8105@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=newshivam8105@gmail.com&size=square" alt="Shivam kumar" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9523522155&size=square" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9523522155&size=square" alt="India-+91-952-352-221-55" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
