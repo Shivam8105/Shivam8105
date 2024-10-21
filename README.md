@@ -100,16 +100,6 @@ As I continue my learning journey, I’m eager to take on new challenges and col
 
 </div>
 
-<div align="center">
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-    <a href="https://leetcode.com/u/Shivam8105/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/Shivam8105?theme=light&radius=20" alt="Leetcode Stats" />
-    </a>
-</p>
-
-</div>
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">Web Development</h3>
