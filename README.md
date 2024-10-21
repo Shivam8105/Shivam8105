@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+    <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=shivam8105&label=Profile%20views&color=0e75b6&style=flat" alt="shivam8105" />
@@ -41,19 +43,19 @@
 
 <p align="left">
     <a href="https://twitter.com/shivamk30347293" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivamk30347293" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/shivam-kumar-531737286/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://instagram.com/shivam_kr(209)" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam_kr(209)" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
     <a href="https://codeforces.com/profile/shivam_8105" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivam_8105" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
     </a>
     <a href="https://www.leetcode.com/shivamkumar" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivam kumar" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
 </p>
 
@@ -95,12 +97,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam8105&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam8105&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam8105&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam8105" alt="Streak Stats" />
 </p>
