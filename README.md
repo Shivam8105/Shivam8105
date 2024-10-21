@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3><br>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px", height="300px",align="right">
+<h3 align="left">A passionate frontend developer from India</h3>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px", height="300px",align="left">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam8105&label=Profile%20views&color=0e75b6&style=flat" alt="shivam8105" /> </p>
 
