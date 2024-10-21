@@ -82,7 +82,7 @@ As I continue my learning journey, I’m eager to take on new challenges and col
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam8105&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Mihir's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shivam8105&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Shivam's Github Stats" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam8105&theme=highcontrast&hide_border=true" alt="Profile Details" />
 
