@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hello, I'm Shivam Kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;DSA+Enthusiast;Night+Owl;Coder;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Frontend+Developer;DSA+Enthusiast;Night+Owl;Coder;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -104,23 +104,9 @@ As I continue my learning journey, I’m eager to take on new challenges and col
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
     <a href="https://leetcode.com/u/Shivam8105/" target="_blank">
-        <img align="center" src="https://leetcard.jacoblin.cool/Shivam8105?theme=light&radius=20" alt="Leetcode Stats" />
+        <img src="https://leetcard.jacoblin.cool/Shivam8105?theme=light&radius=20" alt="Leetcode Stats" />
     </a>
-    
 </p>
-
-<table>
-  <tr>
-    <th align="center">
-      Dev Profile
-    </th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://app.daily.dev/venom10"><img src="https://api.daily.dev/devcards/v2/cqeSas7wyrNpbLjlgcF6o.png?r=3sb" width="356" alt="Mihir's Dev Card" /></a>
-    </td>
-  </tr>
-</table>
 
 </div>
 
