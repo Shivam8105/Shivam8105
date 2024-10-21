@@ -114,62 +114,58 @@ As I continue my learning journey, I’m eager to take on new challenges and col
 
 <h3 align="center">Web Development</h3>
 
-### Frontend
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="margin: 10px; text-align: center;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-        </a>
-        <br />JavaScript
-    </div>
-    <div style="margin: 10px; text-align: center;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-            <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML" />
-        </a>
-        <br />HTML
-    </div>
-    <div style="margin: 10px; text-align: center;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-            <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS" />
-        </a>
-        <br />CSS
-    </div>
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+    </a>
+    <br />JavaScript
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML" />
+    </a>
+    <br />HTML
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS" />
+    </a>
+    <br />CSS
+  </div>
 </div>
 
-### Backend
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="margin: 10px; text-align: center;">
-        <a href="https://en.cppreference.com/w/c">
-            <img src="https://jcodebook.com/wp-content/uploads/2024/08/C-Programming.png" alt="C" width="50" height="50" />
-        </a>
-        <br />C
-    </div>
-    <div style="margin: 10px; text-align: center;">
-        <a href="https://en.cppreference.com/w/cpp">
-            <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++" width="50" height="50" />
-        </a>
-        <br />C++
-    </div>
-    <div style="margin: 10px; text-align: center;">
-        <a href="https://docs.oracle.com/javase/docs/api/index.html">
-            <img src="https://cdn2.vectorstock.com/i/1000x1000/36/56/java-programming-language-icon-vector-48893656.jpg" alt="Java" width="50" height="50" />
-        </a>
-        <br />Java
-    </div>
-    <div style="margin: 10px; text-align: center;">
-        <a href="https://www.python.org/doc/">
-            <img src="https://learnersgalaxy.ai/wp-content/uploads/2024/01/Python-Symbol.png" alt="Python" width="50" height="50" />
-        </a>
-        <br />Python
-    </div>
-    <div style="margin: 10px; text-align: center;">
-        <a href="https://dev.mysql.com/doc/">
-            <img src="https://e7.pngegg.com/pngimages/637/970/png-clipart-mysql-enterprise-website-development-oracle-corporation-computer-programming-mysql-logo-blue-text.png" alt="MySQL" width="50" height="50" />
-        </a>
-        <br />MySQL
-    </div>
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://en.cppreference.com/w/c">
+      <img src="https://jcodebook.com/wp-content/uploads/2024/08/C-Programming.png" alt="C" width="50" height="50" />
+    </a>
+    <br />C
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://en.cppreference.com/w/cpp">
+      <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++" width="50" height="50" />
+    </a>
+    <br />C++
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://docs.oracle.com/javase/docs/api/index.html">
+      <img src="https://cdn2.vectorstock.com/i/1000x1000/36/56/java-programming-language-icon-vector-48893656.jpg" alt="Java" width="50" height="50" />
+    </a>
+    <br />Java
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://www.python.org/doc/">
+      <img src="https://learnersgalaxy.ai/wp-content/uploads/2024/01/Python-Symbol.png" alt="Python" width="50" height="50" />
+    </a>
+    <br />Python
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <a href="https://dev.mysql.com/doc/">
+      <img src="https://e7.pngegg.com/pngimages/637/970/png-clipart-mysql-enterprise-website-development-oracle-corporation-computer-programming-mysql-logo-blue-text.png" alt="MySQL" width="50" height="50" />
+    </a>
+    <br />MySQL
+  </div>
 </div>
 
 
