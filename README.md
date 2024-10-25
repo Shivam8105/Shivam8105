@@ -13,34 +13,6 @@
 </p>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-        <a href="https://www.instagram.com/shivam_kr209/" target="_blank">
-            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fshivam_kr209%2F&subtitle=@shivam_kr209&size=square" alt="shivam_kr209" />
-        </a>        
-    </td>
-    <td align="center">
-        <a href="https://www.linkedin.com/in/shivam-kumar-531737286/" target="_blank">
-            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivam-kumar-531737286%2F&subtitle=@Shivam+Kumar&size=square" alt="Shivam Kumar" />
-        </a>        
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <a href="https://x.com/ShivamK30347293" target="_blank">
-            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FShivamK30347293&subtitle=@ShivamK30347293&size=square" alt="ShivamK30347293" />
-        </a>        
-    </td>
-    <td align="center">
-        <a href="https://github.com/Shivam8105" target="_blank">
-            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FShivam8105&subtitle=%2FShivam8105&size=square" alt="Shivam8105" />
-        </a>        
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivam8105&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35" />
@@ -100,38 +72,56 @@ As I continue my learning journey, I’m eager to take on new challenges and col
 
 </div>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3 align="center">Web Development</h3>
+<h2 align="center">🛠️ Skills</h2>
 
 <div align="center">
 <table>
-  <thead>
-    <tr>
-      <th colspan="8" align="center">Frontend</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML" />
-        </a>
-        <br>HTML
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS" />
-        </a>
-        <br>CSS
-      </td>
-    </tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <a href="https://docs.python.org/3/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center">
+      <a href="https://en.cppreference.com/w/">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center">
+      <a href="https://docs.oracle.com/en/java/">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center">
+      <a href="https://dev.mysql.com/doc/">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+
   </tbody>
 </table>
 </div>
@@ -144,17 +134,38 @@ As I continue my learning journey, I’m eager to take on new challenges and col
 
 <table align="center">
   <tr>
-    <td colspan="3" align="center">
+    <td align="center">
       <a href="mailto:newshivam8105@gmail.com" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=newshivam8105@gmail.com&size=square" alt="Shivam kumar" />
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9523522155&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9523522155&size=square" alt="India-+91-952-352-221-55" />
-      </a>
+        <a href="https://www.instagram.com/shivam_kr209/" target="_blank">
+            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fshivam_kr209%2F&subtitle=@shivam_kr209&size=square" alt="shivam_kr209" />
+        </a>        
+    </td>
+    <td align="center">
+        <a href="https://www.linkedin.com/in/shivam-kumar-531737286/" target="_blank">
+            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivam-kumar-531737286%2F&subtitle=@Shivam+Kumar&size=square" alt="Shivam Kumar" />
+        </a>        
     </td>
   </tr>
+  <tr>
+    <td align="center">
+        <a href="https://x.com/ShivamK30347293" target="_blank">
+            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FShivamK30347293&subtitle=@ShivamK30347293&size=square" alt="ShivamK30347293" />
+        </a>        
+    </td>
+    <td align="center">
+    <a href="https://github.com/Shivam8105" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FShivam8105&subtitle=%2FShivam8105&size=square" alt="Shivam8105" />
+    </a>        
+</td>
+    <td align="center">
+    <a href="https://dev.to/shivam_kumar_5506912bf7c3" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdev.to%2Fshivam_kumar_5506912bf7c3&subtitle=Leetcode&size=square" alt="Shivam8105" />
+    </a>        
+</td>
 </table>
 
 <br>
