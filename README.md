@@ -61,14 +61,9 @@ As I continue my learning journey, I’m eager to take on new challenges and col
 <br>
 
 ### Shivam8105/README.md activity
-![Alt](https://repobeats.axiom.co/api/embed/959496f9f8bb7f17c62ed94061e133a063ecca5b.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/fd34c9708df301a312f0a2ffc26c7c888d2b6f4f.svg "Repobeats analytics image")
 
 <br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivam8105&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy" />
-</details>
 
 </div>
 
