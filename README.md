@@ -157,7 +157,7 @@ As I continue my learning journey, I’m eager to take on new challenges and col
     </a>        
 </td>
     <td align="center">
-    <a href="https://leetcode.com/u/teQ3UxpPJe/" target="_blank">
+    <a href="https://leetcode.com/u/Shivam8105/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdev.to%2Fshivam_kumar_5506912bf7c3&subtitle=Leetcode&size=square" alt="Shivam8105" />
     </a>        
 </td>
