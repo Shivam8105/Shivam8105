@@ -127,42 +127,25 @@ As I continue my learning journey, I’m eager to take on new challenges and col
 
 <h2 align="center">📫 Let's Connect!</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:newshivam8105@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=newshivam8105@gmail.com&size=square" alt="Shivam kumar" />
-      </a>
-    </td>
-    <td align="center">
-        <a href="https://www.instagram.com/shivam_kr209/" target="_blank">
-            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fshivam_kr209%2F&subtitle=@shivam_kr209&size=square" alt="shivam_kr209" />
-        </a>        
-    </td>
-    <td align="center">
-        <a href="https://www.linkedin.com/in/shivam-kumar-531737286/" target="_blank">
-            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivam-kumar-531737286%2F&subtitle=@Shivam+Kumar&size=square" alt="Shivam Kumar" />
-        </a>        
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <a href="https://x.com/ShivamK30347293" target="_blank">
-            <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FShivamK30347293&subtitle=@ShivamK30347293&size=square" alt="ShivamK30347293" />
-        </a>        
-    </td>
-    <td align="center">
-    <a href="https://github.com/Shivam8105" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FShivam8105&subtitle=%2FShivam8105&size=square" alt="Shivam8105" />
-    </a>        
-</td>
-    <td align="center">
-    <a href="https://leetcode.com/u/Shivam8105/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdev.to%2Fshivam_kumar_5506912bf7c3&subtitle=Leetcode&size=square" alt="Shivam8105" />
-    </a>        
-</td>
-</table>
+<div align="center">
+<a href="https://github.com/Shivam8105" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/ShivamK30347293" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/shivam-kumar-531737286/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/shivam_kr209/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:newshivam8105@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
 
-<br>
+<br/>  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
