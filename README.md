@@ -115,6 +115,18 @@ As I continue my learning journey, I’m eager to take on new challenges and col
       </a>
       <br>MySQL
     </td>
+       <td align="center">
+          <a href="https://reactjs.org/">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+          </a>
+          <br>React
+        </td>
+      <td align="center">
+          <a href="https://tailwindcss.com/">
+            <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS" />
+          </a>
+          <br>Tailwind CSS
+        </td>
   </tr>
 
   </tbody>
