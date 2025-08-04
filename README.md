@@ -20,20 +20,12 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-Hello! I’m passionate about web development and programming, with a strong foundation in HTML, CSS, and JavaScript. I enjoy creating visually appealing and interactive web applications, and I take pride in my ability to bring ideas to life through code. If you’re here to "borrow" my README, I hope you brought some creativity with you—plagiarism isn’t a good look!
-
-In addition to my front-end skills, I’ve dabbled in several programming languages, including C, C++, Java, and Python. While I know my way around the concepts and syntax, I’m still in the learning stage. If you think you can just lift my skills and make them your own, good luck—you’ll need more than a copy-paste to get to my level!
-
-I also have experience with MySQL, enabling me to manage and query databases effectively. This knowledge complements my programming skills, allowing me to build more complex applications.
-
-As I continue my learning journey, I’m eager to take on new challenges and collaborate with others. If you’re here to be inspired rather than just replicate, let’s connect! I believe with persistence and practice, we can both enhance our skills and contribute to innovative projects. Just remember: there’s no shortcut to success—so don’t just copy; create!
-
+I'm a passionate web developer specializing in building interactive, visually appealing <br/>applications with modern technologies. My expertise covers both the frontend and backend
 
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=Shivam8105&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Shivam8105&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="130" width="400" alt="streak graph"  />
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam8105&custom_title=Shivam's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
@@ -59,12 +51,6 @@ As I continue my learning journey, I’m eager to take on new challenges and col
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam8105&theme=highcontrast&hide_border=true" alt="Profile Details" />
 
 <br>
-
-### Shivam8105/README.md activity
-![Alt](https://repobeats.axiom.co/api/embed/fd34c9708df301a312f0a2ffc26c7c888d2b6f4f.svg "Repobeats analytics image")
-
-<br>
-
 </div>
 
 <h2 align="center">🛠️ Skills</h2>
@@ -133,15 +119,13 @@ As I continue my learning journey, I’m eager to take on new challenges and col
 </table>
 </div>
 
-
-
 <!-- Rest of the tables follow the same pattern... -->
 
 <h2 align="center">📫 Let's Connect!</h2>
 
 <div align="center">
-<a href="https://github.com/Shivam8105" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://leetcode.com/u/Shivam8105/" target="_blank">
+  <img src="https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
 </a>
 <a href="https://x.com/ShivamK30347293" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -157,7 +141,6 @@ As I continue my learning journey, I’m eager to take on new challenges and col
 </a>
 </div>  
   
-
 <br/>  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
