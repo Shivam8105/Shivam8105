@@ -127,7 +127,7 @@ I'm a passionate web developer specializing in building interactive, visually ap
 <a href="https://leetcode.com/u/Shivam8105/" target="_blank">
   <img src="https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
 </a>
-<a href="https://x.com/ShivamK30347293" target="_blank">
+<a href="https://x.com/shivam__dev" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/shivam-kumar-531737286/" target="_blank">
